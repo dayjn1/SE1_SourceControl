@@ -1,4 +1,4 @@
 First
 This is the second sentance
-Third
+This is the third sentence
 Fourth
